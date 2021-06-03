@@ -9,7 +9,7 @@ INSERT Sales.Store(StoreId, StoreName, Phone, EMail, Street, City, State, Zip) V
 INSERT Sales.Store(StoreId, StoreName, Phone, EMail, Street, City, State, Zip) VALUES (7, 'Thomas1957', '(346) 811-4591', 'ntsrxqve_lbqpg@example.com', '2084 Old Rushwood Rd, First Security Bldg, Frankfort, Kentucky, 94776', 'Charleston', 'Idaho', '07797');
 INSERT Sales.Store(StoreId, StoreName, Phone, EMail, Street, City, State, Zip) VALUES (8, 'Lyndon1990', '(261) 820-8343', 'Whitehead356@example.com', '3968 East Front Ct, Indianapolis, Indiana, 72889', 'Santaquin', 'Kentucky', '04990');
 INSERT Sales.Store(StoreId, StoreName, Phone, EMail, Street, City, State, Zip) VALUES (9, 'Carey354', '(689) 104-6869', 'HurdE@example.com', '3181 NW Cedar Tree Lane, Indianapolis, IN, 54840', 'Burbank', 'New Mexico', '74235');
-INSERT Sales.Store(StoreId, StoreName, Phone, EMail, Street, City, State, Zip) VALUES (10, 'Shandi2016', '(934) 632-6003', 'tllnvs9090@example.com', '3394 Lake Ln, Sacramento, CA, 31508', 'Bay Village', 'Kentucky', '51507');
+INSERT Sales.Store(StoreId, StoreName, Phone, EMail, Street, City, State, Zip) VALUES (10, 'Shandi2016', '(934) 632-6003', 'tllnvs9090@exa mple.com', '3394 Lake Ln, Sacramento, CA, 31508', 'Bay Village', 'Kentucky', '51507');
 GO
 SET IDENTITY_INSERT Sales.Store OFF
 GO
