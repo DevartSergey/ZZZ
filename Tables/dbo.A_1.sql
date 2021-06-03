@@ -1,6 +1,0 @@
-﻿CREATE TABLE [dbo].[A_1] (
-  [Col1] [int] NOT NULL,
-  CONSTRAINT [PK_A_1_Col1] PRIMARY KEY CLUSTERED ([Col1])
-)
-ON [PRIMARY]
-GO
