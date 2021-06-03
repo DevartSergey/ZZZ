@@ -11,6 +11,6 @@
     <StaticDataLink>Sales.Customer</StaticDataLink>
     <StaticDataLink>Sales.OrderItem</StaticDataLink>
     <StaticDataLink>Sales.Staff</StaticDataLink>
-    <StaticDataLink>Sales.Store</StaticDataLink>
+    <StaticDataLink>Sales.Store1</StaticDataLink>
   </StaticDataLinks>
 </StaticDataList>
